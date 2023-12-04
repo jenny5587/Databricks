@@ -1,5 +1,3 @@
-# databricks
+# Databricks
 
-### 1. LLM
-### 2. MLOps (pandas)
-### 3. MLOps (Spark)
+데이터브릭스를 사용해서 작업한 프로젝트 및 스터디 내용들입니다.
